@@ -1,0 +1,84 @@
+fss                       Click to Main Window Exit Button.                  14.04.2023      17:00:05       
+admin                     Click to Books button                              15.04.2023      17:18:23       
+admin                     Click to My Orders Button.                         15.04.2023      17:18:30       
+admin                     Click to My Cart Button.                           15.04.2023      17:18:31       
+admin                     Click to Books button                              15.04.2023      17:18:34       
+admin                     Click to Add to Cart YAVAŞLA! Book Button.         15.04.2023      17:18:35       
+admin                     Click to My Cart Button.                           15.04.2023      17:18:38       
+admin                     Click to Main Window Exit Button.                  15.04.2023      17:19:18       
+admin                     Click to Settings Button.                          15.04.2023      17:24:41       
+admin                     Click to My Cart Button.                           15.04.2023      17:24:47       
+admin                     Click to Settings Button.                          15.04.2023      17:24:48       
+admin                     Click to My Orders Button.                         15.04.2023      17:24:49       
+admin                     Click to My Cart Button.                           15.04.2023      17:24:50       
+admin                     Click to Books button                              15.04.2023      17:24:51       
+admin                     Click to Dashboard button                          15.04.2023      17:24:52       
+admin                     Click to Settings Button.                          15.04.2023      17:24:53       
+admin                     Click to Admin Customer Button.                    15.04.2023      17:24:54       
+admin                     Click to My Cart Button.                           15.04.2023      17:25:08       
+admin                     Click to My Orders Button.                         15.04.2023      17:25:09       
+admin                     Click to Books button                              15.04.2023      17:25:10       
+admin                     Click to Books button                              15.04.2023      17:25:10       
+admin                     Click to Dashboard button                          15.04.2023      17:25:11       
+admin                     Click to Settings Button.                          15.04.2023      17:25:12       
+admin                     Click to Admin Customer Button.                    15.04.2023      17:25:14       
+admin                     Click to Admin Customer Button.                    15.04.2023      17:25:15       
+admin                     Click to My Cart Button.                           15.04.2023      17:25:19       
+admin                     Click to My Orders Button.                         15.04.2023      17:25:36       
+admin                     Click to Dashboard button                          15.04.2023      17:25:37       
+admin                     Click to Books button                              15.04.2023      17:25:38       
+admin                     Click to Main Window Exit Button.                  15.04.2023      17:25:44       
+admin                     Click to Books button                              15.04.2023      17:27:47       
+admin                     Click to My Orders Button.                         15.04.2023      17:27:48       
+admin                     Click to My Cart Button.                           15.04.2023      17:27:49       
+admin                     Click to Settings Button.                          15.04.2023      17:27:49       
+admin                     Click to Settings Button.                          15.04.2023      17:27:55       
+admin                     Click to Dashboard button                          15.04.2023      17:27:56       
+admin                     Click to Books button                              15.04.2023      17:27:58       
+admin                     Click to My Orders Button.                         15.04.2023      17:28:37       
+admin                     Click to My Orders Button.                         15.04.2023      17:28:42       
+admin                     Click to My Cart Button.                           15.04.2023      17:28:45       
+admin                     Click to Main Window Exit Button.                  15.04.2023      17:28:58       
+admin                     Click to Books button                              15.04.2023      17:41:49       
+admin                     Click to My Orders Button.                         15.04.2023      17:42:21       
+admin                     Click to My Cart Button.                           15.04.2023      17:42:53       
+admin                     Click to Settings Button.                          15.04.2023      17:43:16       
+admin                     Yönetici Defteri Düğmesine Tıklayın.               15.04.2023      17:43:47       
+admin                     Click to Admin Customer Button.                    15.04.2023      17:44:11       
+admin                     Click to Books button                              15.04.2023      17:44:44       
+admin                     Click to Add to Cart KOKU Book Button.             15.04.2023      17:44:45       
+admin                     Click to Add to Cart KOKU Book Button.             15.04.2023      17:44:46       
+admin                     Click to Add to Cart MILENA'YA MEKTUPLAR Book Button. 15.04.2023      17:44:47       
+admin                     Click to Add to Cart BİR DELİNİN HATIRA DEFTERİ Book Button. 15.04.2023      17:44:50       
+admin                     Click to My Cart Button.                           15.04.2023      17:44:52       
+admin                     Click to Settings Button.                          15.04.2023      17:45:19       
+admin                     Click to My Cart Button.                           15.04.2023      17:45:27       
+admin                     Click to Main Window Exit Button.                  15.04.2023      17:45:30       
+Rumeysa                   Click to Settings Button.                          15.04.2023      17:46:59       
+Rumeysa                   Click to Main Window Exit Button.                  15.04.2023      17:47:24       
+Rumeysa                   Click to My Orders Button.                         15.04.2023      18:20:16       
+Rumeysa                   Click to My Cart Button.                           15.04.2023      18:20:18       
+Rumeysa                   Click to My Orders Button.                         15.04.2023      18:20:19       
+Rumeysa                   Click to Main Window Exit Button.                  15.04.2023      18:20:26       
+admin                     Click to Books button                              15.04.2023      18:24:08       
+admin                     Click to My Orders Button.                         15.04.2023      18:24:09       
+admin                     Click to My Cart Button.                           15.04.2023      18:24:10       
+admin                     Click to Settings Button.                          15.04.2023      18:24:11       
+admin                     Click to My Orders Button.                         15.04.2023      18:24:14       
+admin                     Click to Books button                              15.04.2023      18:25:10       
+admin                     Click to My Cart Button.                           15.04.2023      18:25:14       
+admin                     Click to Settings Button.                          15.04.2023      18:25:45       
+admin                     Yönetici Defteri Düğmesine Tıklayın.               15.04.2023      18:25:49       
+admin                     Click to Admin Customer Button.                    15.04.2023      18:25:52       
+admin                     Yönetici Defteri Düğmesine Tıklayın.               15.04.2023      18:26:20       
+admin                     Click to Main Window Exit Button.                  15.04.2023      18:27:17       
+Rumeysa                   Click to Settings Button.                          15.04.2023      18:38:51       
+Rumeysa                   Click to Main Window Exit Button.                  15.04.2023      18:39:21       
+Rumeysa                   Click to Settings Button.                          15.04.2023      18:40:47       
+Rumeysa                   Click to Main Window Exit Button.                  15.04.2023      18:41:14       
+Rumeysa                   Click to Dashboard button                          15.04.2023      19:10:43       
+Rumeysa                   Click to Books button                              15.04.2023      19:10:45       
+Rumeysa                   Click to My Orders Button.                         15.04.2023      19:10:46       
+Rumeysa                   Click to My Cart Button.                           15.04.2023      19:10:47       
+Rumeysa                   Click to Settings Button.                          15.04.2023      19:10:48       
+Rumeysa                   Click to Main Window Exit Button.                  15.04.2023      19:10:51       

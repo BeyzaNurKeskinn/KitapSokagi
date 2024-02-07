@@ -1,0 +1,92 @@
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\bin\Debug\KitapSokagi.exe.config
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\bin\Debug\KitapSokagi.exe
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\bin\Debug\KitapSokagi.pdb
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.csproj.AssemblyReference.cache
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.LoginForm.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.MainWindow.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.PaymentForm.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.Properties.Resources.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.SignUpForm.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_AdminBook.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_AdminControl.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_AdminCustomer.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_Book.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_Books.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_CustomerSettings.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_Dashboard.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_MyOrders.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_ShoppingItem.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.UC_ShoppingList.resources
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.csproj.GenerateResource.cache
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.csproj.CoreCompileInputs.cache
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.exe
+C:\Users\fadile\Desktop\OnlineBookStore-master - Kopya\OnlineBookStore-master\OnlineBookStore-master\OnlineBookStore\OnlineBookStore\obj\Debug\KitapSokagi.pdb
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.exe.config
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.exe
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.pdb
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.AssemblyReference.cache
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.LoginForm.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.MainWindow.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.Properties.Resources.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.SignUpForm.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminBook.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminControl.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminCustomer.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Book.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Books.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_CustomerSettings.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Dashboard.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_MyOrders.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_ShoppingItem.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_ShoppingList.resources
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.GenerateResource.cache
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.CoreCompileInputs.cache
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.exe
+C:\Users\fadile\Desktop\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.pdb
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.exe.config
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.exe
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.pdb
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.AssemblyReference.cache
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.LoginForm.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.MainWindow.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.Properties.Resources.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.SignUpForm.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminBook.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminControl.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminCustomer.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Book.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Books.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_CustomerSettings.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Dashboard.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_MyOrders.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_ShoppingItem.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_ShoppingList.resources
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.GenerateResource.cache
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.CoreCompileInputs.cache
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.CopyComplete
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.exe
+C:\Users\rumey\Downloads\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.pdb
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.exe.config
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.exe
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\bin\Debug\KitapSokagi.pdb
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.AssemblyReference.cache
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.LoginForm.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.MainWindow.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.Properties.Resources.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.SignUpForm.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminBook.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminControl.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_AdminCustomer.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Book.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Books.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_CustomerSettings.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_Dashboard.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_MyOrders.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_ShoppingItem.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.UC_ShoppingList.resources
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.GenerateResource.cache
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.CoreCompileInputs.cache
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.csproj.CopyComplete
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.exe
+C:\Users\beyza\OneDrive\Masaüstü\KitapSokagi\KitapSokagi\KitapSokagi-master\KitapSokagi-master\KitapSokagi\KitapSokagi\obj\Debug\KitapSokagi.pdb
